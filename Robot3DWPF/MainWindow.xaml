@@ -1,0 +1,14 @@
+﻿<Window x:Class="Robot3DWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Robot3DWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10,0,0,0">
+        <TextBox x:Name="commandTextbox" HorizontalAlignment="Left" Height="288" TextWrapping="Wrap" VerticalAlignment="Top" Width="772" Margin="0,10,0,0" KeyUp="commandTextBox_KeyUp"/>
+        <TextBox x:Name="outputTextbox" HorizontalAlignment="Left" Height="84" Margin="0,308,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="772"/>
+
+    </Grid>
+</Window>

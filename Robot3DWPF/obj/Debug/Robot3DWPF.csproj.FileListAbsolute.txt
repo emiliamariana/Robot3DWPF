@@ -1,0 +1,15 @@
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\bin\Debug\Robot3DWPF.exe.config
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\bin\Debug\Robot3DWPF.exe
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\bin\Debug\Robot3DWPF.pdb
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\obj\Debug\Robot3DWPF.csprojAssemblyReference.cache
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\obj\Debug\App.g.cs
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\obj\Debug\Robot3DWPF_MarkupCompile.cache
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\obj\Debug\Robot3DWPF_MarkupCompile.lref
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\obj\Debug\MainWindow.baml
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\obj\Debug\Robot3DWPF.g.resources
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\obj\Debug\Robot3DWPF.Properties.Resources.resources
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\obj\Debug\Robot3DWPF.csproj.GenerateResource.cache
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\obj\Debug\Robot3DWPF.csproj.CoreCompileInputs.cache
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\obj\Debug\Robot3DWPF.exe
+C:\Users\Emilia\source\repos\Robot3DWPF\Robot3DWPF\obj\Debug\Robot3DWPF.pdb
